@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NtpClient": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
