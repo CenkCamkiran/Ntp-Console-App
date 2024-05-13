@@ -1,0 +1,7 @@
+version: "3.5"
+
+services:
+  ntpclient:
+    container_name: ntpclient
+    image: cenkcamkiran/experimental:ntpclient
+    restart: always
